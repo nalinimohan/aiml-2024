@@ -5,4 +5,5 @@
 #[lab03](https://github.com/nalinimohan/aiml-2024/blob/main/Lab3_AIML.ipynb)
 
 #[lab04](https://github.com/nalinimohan/aiml-2024/blob/main/LAB_AIML_4.ipynb)
- #[lab05](https://github.com/nalinimohan/aiml-2024/blob/main/Assignment_5.ipynb)
+
+#[lab05](https://github.com/nalinimohan/aiml-2024/blob/main/Assignment_5.ipynb)
